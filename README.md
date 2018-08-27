@@ -1,4 +1,4 @@
-# Very-Track
+# TrackApp
 ## Critérios
 
 * Escopo: Descrição, RFs, RNFs, RNs.
